@@ -16,13 +16,13 @@ Features
 
 Technologies & Libraries Used
 
-Frontend: HTML, CSS (via Flask templates)
-Backend: Python, Flask
-Image Processing: OpenCV, PIL
-OCR: Tesseract OCR via PyTesseract
-NLP & ML:
-SpaCy (Named Entity Recognition)
-TF-IDF Vectorizer (for text vectorization)
-Cosine Similarity (for drug name matching)
-Data Handling: Pandas, NumPy
-Utilities: Regex, werkzeug, OS module
+- Frontend: HTML, CSS (via Flask templates)
+- Backend: Python, Flask
+- Image Processing: OpenCV, PIL
+- OCR: Tesseract OCR via PyTesseract
+- NLP & ML:
+- SpaCy (Named Entity Recognition)
+- TF-IDF Vectorizer (for text vectorization)
+- Cosine Similarity (for drug name matching)
+- Data Handling: Pandas, NumPy
+- Utilities: Regex, werkzeug, OS module
